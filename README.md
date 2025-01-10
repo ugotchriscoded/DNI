@@ -30,7 +30,10 @@ I created a console application that calculates the letter of the **DNI** *(Nati
 ### Coverage
 
 ## Authors
-
+Developed by **Valeria Dobado Gonzalez**:
+- **Github**: *https://github.com/ugotchriscoded/ugotchriscoded*
+- **Linkendin**: *https://www.linkedin.com/in/valeria-dobado-gonz%C3%A1lez-262060328/*
+  
 ## Languages
 
 ## Tools
