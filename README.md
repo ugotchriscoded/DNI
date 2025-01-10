@@ -99,7 +99,25 @@ http://127.0.0.1:8000/api/offers/id
 
 ## :white_check_mark: Tests
 
+> [!IMPORTANT]
+>  Testing the project so we can check if it works correctly using this command:
+
+```php
+./vendor/bin/phpunit tests
+```
+(insert screenshoot)
+
+
 ### Coverage
+
+Use this command:
+
+```php
+php artisan test --coverage
+```
+
+(insert screenshoot)
+
 
 ## Authors
 Developed by **Valeria Dobado Gonzalez**:
