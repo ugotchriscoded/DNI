@@ -42,6 +42,12 @@ Creating a database in **Admin** **SQL**.
 
 (insert screenshoot)
 
+### Step 2: Cloning repository
+
+```php
+https://github.com/ugotchriscoded/DNI.git
+ ```
+
 
 ## Documentation (Endpoints)
 
