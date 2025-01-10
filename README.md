@@ -47,7 +47,11 @@ Creating a database in **Admin** **SQL**.
 ```php
 https://github.com/ugotchriscoded/DNI.git
  ```
+### Step 3: Putting everything up to date
 
+In the *.env* file **remove** the *#* in these lines, enter the **name** of your **database** and **replace** *Laravel* with *sql*.
+
+<p align="center"><img width="287" alt="image" src="https://github.com/user-attachments/assets/bdfec806-cdcc-4a05-a6bf-43a59cc7658e"></p>
 
 ## Documentation (Endpoints)
 
