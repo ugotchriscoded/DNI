@@ -18,7 +18,11 @@ Minimum **coverage 70%**.
 
 ## :eye_speech_bubble: Working app
 
+(insert screenshoots)
+
 ## :file_folder: Jira Backlog
+![JIRA screenshot](https://github.com/user-attachments/assets/4705c0d0-581a-486c-9d56-e1cc915e9854)
+
 
 ## :paperclip: Installation requirements
 :black_circle: XAMPP
