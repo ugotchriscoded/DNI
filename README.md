@@ -53,7 +53,49 @@ In the *.env* file **remove** the *#* in these lines, enter the **name** of your
 
 <p align="center"><img width="287" alt="image" src="https://github.com/user-attachments/assets/bdfec806-cdcc-4a05-a6bf-43a59cc7658e"></p>
 
+### Server
+
+To **run the server** enter this command:
+
+```php
+npm run dev
+```
+
+<p align="center"><img width="317" alt="image" src="https://github.com/user-attachments/assets/ff2e3e05-881e-49e7-9b02-e80db682cd3e"></p>
+
+
+> [!WARNING]
+> **DON'T work** on that terminal again, but you should keep it working. **DON'T KILL IT.**
+
+To see the **running serve** enter the command:
+
+```php
+php artisan serve
+```
+(insert screenshoot)
+
+
+> [!NOTE]
+> If you press Control and click the link it should take you to the main offers.
+
+
 ## Documentation (Endpoints)
+All the functionalities work with **just one endpoint** introducing the number you want to process.
+
+### :heavy_check_mark: Correct
+**Returns** your number plus the corresponding letter.
+
+### :heavy_multiplication_x: NOT correct
+Shows an **error message** warning you to introduce a valid number.
+
+### Assign Letter (GET)
+
+```php
+http://127.0.0.1:8000/api/offers/id
+```
+> [!NOTE]
+> Introduce the number where the **id** goes.
+
 
 ## :white_check_mark: Tests
 
