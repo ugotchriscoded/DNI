@@ -14,6 +14,7 @@ I created a console application that calculates the letter of the **DNI** *(Nati
 - Everything will be done by **json** *(Api)*.
 
 ## Requirements
+Minimum **coverage 70%**.
 
 ## :eye_speech_bubble: Project overview
 
