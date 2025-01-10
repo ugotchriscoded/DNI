@@ -7,8 +7,8 @@ I created a console application that calculates the letter of the **DNI** *(Nati
 
 ### Algorythm
 - The number must be **between 0 and 99999999**
-- We take the complete number of up to **8 digits** of our ID, divide it by **23** and keep the remainder of said division **(modulo 23)**
-- Depending on the result, **from 0 to 22**, it will correspond to one of the following letters: *T, R, W, A, G, M, Y, F, P, D, X, B, N, J, Z, S, Q, V, H, L, C, K, E* (these data must be in a **database table**)
+- We take the complete number of up to **8 digits** of our ID, divide it by **23** and keep the remainder of said division **(modulo 23).**
+- Depending on the result, **from 0 to 22**, it will correspond to one of the following letters: *T, R, W, A, G, M, Y, F, P, D, X, B, N, J, Z, S, Q, V, H, L, C, K, E* (these data must be in a **database table**).
 - If the data entered is NOT a number, a **message** must be indicated that *"the data entered is incorrect"* and the user must be asked again.
 - The process **must be repeated** until the user enters a **valid number**.
 - Everything will be done by **json** *(Api)*.
@@ -140,6 +140,7 @@ Developed by **Valeria Dobado Gonzalez**:
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='MySql' src='https://img.shields.io/badge/my_sql-100000?style=for-the-badge&logo=MySql&logoColor=white&labelColor=000000&color=000000'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='xampp' src='https://img.shields.io/badge/xampp-100000?style=for-the-badge&logo=xampp&logoColor=white&labelColor=000000&color=000000'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='xampp' src='https://img.shields.io/badge/postman-100000?style=for-the-badge&logo=xampp&logoColor=white&labelColor=000000&color=000000'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Jira' src='https://img.shields.io/badge/Jira-100000?style=for-the-badge&logo=Jira&logoColor=white&labelColor=black&color=black'/></a>
 
 ## Thanks for reading!
 
