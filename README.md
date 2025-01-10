@@ -16,11 +16,11 @@ I created a console application that calculates the letter of the **DNI** *(Nati
 ## Requirements
 Minimum **coverage 70%**.
 
-## :eye_speech_bubble: Project overview
+## :eye_speech_bubble: Working app
 
-## Project Diagram (BBDD)
+## :file_folder: Jira Backlog
 
-## :scroll: Installation requirements
+## :paperclip: Installation requirements
 :black_circle: XAMPP
 
 :black_circle: Composer
@@ -35,6 +35,13 @@ Minimum **coverage 70%**.
 If you can't install XAPP, you can also use another local server that supports MySQL and PHP.
 
 ## :scroll: Installation
+
+### Step 1: Creating database
+
+Creating a database in **Admin** **SQL**.
+
+(insert screenshoot)
+
 
 ## Documentation (Endpoints)
 
