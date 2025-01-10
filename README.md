@@ -1,6 +1,6 @@
-# Proyect - DNI
+# 🆔 Proyect - DNI 
 
-## :bulb: Project description
+## 🪪 Project description
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 I created a console application that calculates the letter of the **DNI** *(National Identity Document)*.
@@ -83,7 +83,7 @@ php artisan serve
 > If you press Control and click the link it should take you to the main offers.
 
 
-## Documentation (Endpoints)
+## 📝 Documentation (Endpoints)
 All the functionalities work with **just one endpoint** introducing the number you want to process.
 
 ### :heavy_check_mark: Correct
@@ -126,7 +126,7 @@ php artisan test --coverage
 ## Authors
 Developed by **Valeria Dobado Gonzalez**:
 - **Github**: *https://github.com/ugotchriscoded/ugotchriscoded*
-- **Linkendin**: *https://www.linkedin.com/in/valeria-dobado-gonz%C3%A1lez-262060328/*
+- **Linkendin**: *https://www.linkedin.com/in/valeria-dobado-gonzález-262060328/*
   
 ## Languages
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='php' src='https://img.shields.io/badge/php-100000?style=for-the-badge&logo=php&logoColor=white&labelColor=000000&color=000000'/></a>
