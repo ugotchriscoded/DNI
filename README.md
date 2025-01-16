@@ -18,7 +18,14 @@ Minimum **coverage 70%**.
 
 ## :eye_speech_bubble: Working app
 
-(insert screenshoots)
+<img width="421" alt="firts command" src="https://github.com/user-attachments/assets/eae5ad2e-9a40-4572-88aa-497f20d7550a" />
+
+Returns the number entered and the assigned letter.
+
+
+<img width="420" alt="second command" src="https://github.com/user-attachments/assets/ab55f1ca-895c-41ce-bc22-189e8c5939e2" />
+
+Returns error text.
 
 ## :file_folder: Jira Backlog
 ![JIRA screenshot](https://github.com/user-attachments/assets/4705c0d0-581a-486c-9d56-e1cc915e9854)
@@ -97,7 +104,7 @@ Shows an **error message** warning you to introduce a valid number.
 ### Assign Letter (GET)
 
 ```php
-http://127.0.0.1:8000/api/offers/id
+http://127.0.0.1:8000/api/assign/id
 ```
 > [!NOTE]
 > Introduce the number where the **id** goes.
