@@ -44,7 +44,8 @@ If you can't install XAPP, you can also use another local server that supports M
 
 Creating a database in **Admin** **SQL**.
 
-(insert screenshoot)
+<img width="176" alt="database" src="https://github.com/user-attachments/assets/c2ff0b28-6b13-446e-aabf-89149ec242cc" />
+
 
 ### Step 2: Cloning repository
 
@@ -76,7 +77,8 @@ To see the **running serve** enter the command:
 ```php
 php artisan serve
 ```
-(insert screenshoot)
+
+<img width="410" alt="running server" src="https://github.com/user-attachments/assets/4db3d32b-2716-46e8-9e41-c89f43bde526" />
 
 
 > [!NOTE]
@@ -107,9 +109,10 @@ http://127.0.0.1:8000/api/offers/id
 >  Testing the project so we can check if it works correctly using this command:
 
 ```php
-./vendor/bin/phpunit tests
+php artisan test
 ```
-(insert screenshoot)
+
+<img width="389" alt="php artisan test" src="https://github.com/user-attachments/assets/20a00f72-01f4-4048-8522-c72b542b2cb0" />
 
 
 ### Coverage
@@ -120,7 +123,8 @@ Use this command:
 php artisan test --coverage
 ```
 
-(insert screenshoot)
+<img width="482" alt="test coverage" src="https://github.com/user-attachments/assets/01a187e1-57b7-4ac9-809c-8553e33c887e" />
+
 
 
 ## Authors
