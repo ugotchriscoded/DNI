@@ -28,7 +28,8 @@ Returns the number entered and the assigned letter.
 Returns error text.
 
 ## :file_folder: Jira Backlog
-![JIRA screenshot](https://github.com/user-attachments/assets/4705c0d0-581a-486c-9d56-e1cc915e9854)
+<img width="445" alt="Jira backlog screenshoot" src="https://github.com/user-attachments/assets/ad064516-6fe0-4507-9299-02d28e9a90b8" />
+
 
 
 ## :paperclip: Installation requirements
